@@ -1,3 +1,4 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=samarth1345.samarth1345)
 ### Hi there 👋
 - 🔭 I’m currently working on - DSA,Android Development
 - 🌱 I’m currently learning - Android Development
