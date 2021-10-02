@@ -24,6 +24,6 @@
 </p>
 <br />
 ## 🏆 My Github Stats
-<p align="center">
+<p align="left">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=samarth1345&show_icons=true&theme=tokyonight)
 
