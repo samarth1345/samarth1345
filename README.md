@@ -1,5 +1,4 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=samarth1345.samarth1345)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth1345&theme=tokyonight)
 ### Hi there 👋
 - 🔭 I’m currently working on - DSA,Android Development
 - 🌱 I’m currently learning - Android Development
@@ -7,6 +6,7 @@
 - 💬 Ask me about DSA
 - 📫 How to reach me: sbabbar_be20@thapar.edu
 - ⚡ Fun fact: I play Cricket (:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth1345&theme=tokyonight)
 ## ✉️ Find me on:
 
 
