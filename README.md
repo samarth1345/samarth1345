@@ -14,6 +14,7 @@
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="css3" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://camo.githubusercontent.com/edace24477b83fec7ceeed28766bed49d1e437525e96e7570ace005e7c8a9432/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6769746875622e706e67" alt="css3" width="40" height="40"/> </a>
+   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="css3" width="40" height="40"/> </a>
     </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
