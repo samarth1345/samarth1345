@@ -8,13 +8,14 @@
 </h2> 
 <br>
 
-<img width="500" height="300" align="right" alt="Samarth's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=samarth1345&show_icons=true&theme=react&count_private=true&include_all_commits=true" />
-         
 <!--<p align="center">
   <img width="500" height="300" alt="Samarth's github stats" 
           src = "https://github-readme-streak-stats.herokuapp.com/?user=samarth1345&theme=black-ice"/>
 </p>-->
+
+<img width="500" height="300" align="right" alt="Samarth's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=samarth1345&show_icons=true&theme=react&count_private=true&include_all_commits=true" />
+         
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
