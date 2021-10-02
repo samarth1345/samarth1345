@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on - DSA,Android Development
+- 🌱 I’m currently learning - Android Development
+- 👯 I’m looking to collaborate on - Android projects
+- 💬 Ask me about DSA
+- 📫 How to reach me: sbabbar_be20@thapar.edu
+- ⚡ Fun fact: I play Cricket (:
 <!--
 **samarth1345/samarth1345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
