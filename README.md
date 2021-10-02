@@ -25,5 +25,5 @@
 <br />
 ## 🏆 My Github Stats
 <p align="left">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=samarth1345&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
