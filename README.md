@@ -8,8 +8,6 @@
 </h2> 
 <br>
 
-![Samarth's github stats](https://github-readme-stats.vercel.app/api?username=samarth1345&count_private=true&include_all_commits=true&theme=nightowl)
-
 <img width="500" height="300" align="right" alt="Samarth's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=samarth1345&show_icons=true&theme=react&count_private=true&include_all_commits=true" />
 
